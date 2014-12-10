@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, I'm [Ralph](http://about.me/ralphchan), who usually write code when I'm working. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+RCDevlog is a blog which allows me to record down the problems I faced during my work and how I solved them. My target is for my future self to find out the solution for the problems I have solved more efficiently. In addition I also use RCDevlog as a playground to get my hands dirty with [jekyll](http://jekyllrb.com/) for fun. 
